@@ -1,2 +1,3 @@
-# php
-docker file for php
+# ruby-php
+
+docker file for ruby and php
